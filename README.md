@@ -80,5 +80,6 @@ Proposta 3: Bafômetro
 	
 - Utilização dos materiais:
 	 - O sensor de gás MQ-3 identificará a presença do álcool e sua intensidade;
+	 - O sensor deverá ser capaz de detectar entre 10 e 10.000ppm de álcool;
 	 - O display ficará responsável por mostrar os resultados dos indivíduos;
 	 - O bluetooth poderá mandar os dados para um banco de dados para uma possível análise ou pesquisa comportamental.
