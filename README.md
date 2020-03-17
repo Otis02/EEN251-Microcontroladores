@@ -36,6 +36,7 @@ Proposta 1: Alimentador automático de cachorros e gatos
          - Avisar quando o bicho de estimação estiver comendo ou bebendo água; 
          - Avisar se precisa de mais ração ou mais água.
 		
+--------------------------------------------------------------------------------------------------------------------------------
 	
 Proposta 2: Controlador de temperatura e fumaça
 - Teremos um equipamento que ficará lendo a temperatura do ambiente;
@@ -61,4 +62,23 @@ Proposta 2: Controlador de temperatura e fumaça
 	  - A bateria será necessária para a mini bomba de água funcionar;
 	  - O módulo de bluetooth irá mandar alertas para avisar se seu ambiente está em perigo;
 	  
+---------------------------------------------------------------------------------------------------------------------------------
 	  
+Proposta 3: Bafômetro
+- Medir índice de álcool no organismo de uma pessoa;
+- Poderá fazer análises e pesquisas com base nos dados coletados;
+
+ - Materiais:
+   - Kit de desenvolvimento da Atmel
+   - Módulo Bluetooth 4.0 HC 08
+
+- Sensor Analógico:
+  - Sensor de gás MQ-3 álcool
+	
+- Atuadores:
+  - Display OLED i2c OLED 128x32 Px
+	
+- Utilização dos materiais:
+	 - O sensor de gás MQ-3 identificará a presença do álcool e sua intensidade;
+	 - O display ficará responsável por mostrar os resultados dos indivíduos;
+	 - O bluetooth poderá mandar os dados para um banco de dados para uma possível análise ou pesquisa comportamental.
