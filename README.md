@@ -46,6 +46,7 @@ Proposta 2: Controlador de temperatura e fumaça
  - Materiais:
    - Kit de desenvolvimento da Atmel
    - Módulo Bluetooth 4.0 HC 08
+   - LED
  
  - Sensores Analógicos:
    - Sensor fumaça - MQ 02
@@ -61,6 +62,7 @@ Proposta 2: Controlador de temperatura e fumaça
 	  - A mini bomba de água é para quando ser acionada conseguir resfriar o ambiente ou apagar inícios de incêndios;
 	  - A bateria será necessária para a mini bomba de água funcionar;
 	  - O módulo de bluetooth irá mandar alertas para avisar se seu ambiente está em perigo;
+	  - O LED para acender quando a bomba ativar.
 	  
 ---------------------------------------------------------------------------------------------------------------------------------
 	  
